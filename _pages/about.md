@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # 简介
-欢迎来到我的博客，我是沐慈，B站账号(https://space.bilibili.com/3493267987499600)[Awa-沐慈],洛谷账号(https://www.luogu.com.cn/user/1129497)[sjh0626],求关注！！！
+欢迎来到我的博客，我是沐慈，B站账号[Awa-沐慈](https://space.bilibili.com/3493267987499600),洛谷账号[sjh0626](https://www.luogu.com.cn/user/1129497),求关注！！！
 
 # 题外话
 这是一位dalao，
